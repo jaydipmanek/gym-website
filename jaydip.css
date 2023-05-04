@@ -1,0 +1,13 @@
+@import  url(bootstrap.min.css);
+   
+    .navbar-light .navbar-nav .navbar-link {
+      color: rgb(11, 37, 102);
+      font-size: 15px;
+      margin: 5px 5px;
+
+    }
+    .navbar-light .navbar-nav .navbar-link {
+      color: rgb(100, 13, 13);
+      background-color: coral;
+    }
+   
